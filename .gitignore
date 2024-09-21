@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+*.sqlite3
+*.pyc
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Static files
+staticfiles/
+
+# Media files
+media/
+
+# Database
+db.sqlite3
+
+# Logs
+*.log
+
+# IDE settings
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Compiled Python files
+*.pyc
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Linux
+*.swp
